@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Noob BMI Calculator</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="calc">Calculate</string>
+
+    <string name="Kilograms">Kilograms</string>
+    <string name="Centimeters">Centimeters</string>
+
+    <string-array name="weight_units">
+        <item>Kilograms</item>
+        <item>Pounds</item>
+    </string-array>
+
+    <string-array name="height_units">
+        <item>Centimeters</item>
+        <item>Feet</item>
+    </string-array>
+
+    <string-array name="sex_units">
+        <item>Masculine</item>
+        <item>Feminine</item>
+    </string-array>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+</resources>
